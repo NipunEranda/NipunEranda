@@ -12,7 +12,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at namarasekara71@gmail.com! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" align="right"/>
+<img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
