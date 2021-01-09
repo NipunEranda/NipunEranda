@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=%20Hi%20there%20&fontSize=80&textBg=true&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HELLO%20MATEe☺️&fontSize=90)
+
 
 Hi, I'm Nipun Eranda. I'm developing to make services that will improve our lives.
 
