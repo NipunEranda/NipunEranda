@@ -10,7 +10,7 @@
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Gaming, Painting and do penetration testings as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at namarasekara71@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at namarasekara71@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp; CV : <a href="https://drive.google.com/file/d/1zyVbDBmfN59OiO4go8GSmFFA7WRGl0gv/view?usp=sharing">Check Here!</a>
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
