@@ -26,20 +26,20 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c&logoColor=800080)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)&nbsp;\
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)&nbsp;\\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;\
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;\\
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=Visual%20Studio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman)&nbsp;
 ![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom)
-![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=android)&nbsp;\
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=android)&nbsp;\\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 
