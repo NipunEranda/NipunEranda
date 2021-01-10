@@ -42,5 +42,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NipunEranda&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NipunEranda&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
