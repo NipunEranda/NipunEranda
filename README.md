@@ -44,6 +44,7 @@
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=android)<br/><br/>
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
+![Mac](https://img.shields.io/badge/-Mac-05122A?style=flat&logo=Apple)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
