@@ -26,7 +26,7 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c&logoColor=800080)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)&nbsp
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
 ![Handlebars](https://img.shields.io/badge/-Handlebars-05122A?style=flat&logo=Handlebars.js&logoColor=orange)<br/><br/>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
