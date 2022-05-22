@@ -32,8 +32,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)<br/><br/>
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express)<br/><br/>
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)<br/><br/>
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)<br/><br/>
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=Visual%20Studio)&nbsp;
