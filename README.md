@@ -1,4 +1,4 @@
-<img alt="Nipun Eranda Banner" src="./assets/NipunEranda.gif" width="100%"/><br/>
+<img alt="Nipun Eranda Banner" src="./assets/NipunEranda.gif" width="100%"/>
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Nipun Eranda</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Nipun Eranda -->
