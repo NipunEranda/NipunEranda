@@ -44,7 +44,9 @@
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=android)<br/><br/>
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
-![Mac](https://img.shields.io/badge/-Mac-05122A?style=flat&logo=Apple)&nbsp;
+![Mac](https://img.shields.io/badge/-Mac-05122A?style=flat&logo=Apple)<br/><br/>
+![Azure](https://img.shields.io/badge/-Azure-0b5aa3?style=flat&logo=microsoft-azure)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-e95f1f?style=flat&logo=amazon-aws)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
