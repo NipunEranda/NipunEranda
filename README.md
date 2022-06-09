@@ -14,39 +14,41 @@
 📄 &nbsp; My Curriculum Vitae : <a style="color: red;" href="https://drive.google.com/file/d/1AC-a425sRZQpPujPB8xyUQ4v0Px1KlkB/view?usp=sharing">Check Here!</a>
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
+<br/>
+ 
+🛠 &nbsp;Tech Stack
 
-### 🛠 &nbsp;Tech Stack
+<br/>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c&logoColor=800080)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
-![Handlebars](https://img.shields.io/badge/-Handlebars-05122A?style=flat&logo=Handlebars.js&logoColor=orange)<br/><br/>
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)<br/><br/>
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=Visual%20Studio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman)&nbsp;
-![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom)
-![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=android)<br/><br/>
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
-![Mac](https://img.shields.io/badge/-Mac-05122A?style=flat&logo=Apple)<br/><br/>
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+<img src="https://img.shields.io/badge/-Python-3775a8?style=for-the-badge&logo=python&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Django-092d1f?style=for-the-badge&logo=django&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-de9c25?style=for-the-badge&logo=javascript&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Node.js-397f37?style=for-the-badge&logo=node.js&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Java-507e9c?style=for-the-badge&logo=Java&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Spring-6db33f?style=for-the-badge&logo=spring&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-C++-005697?style=for-the-badge&logo=C%2B%2B&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-C%23-005697?style=for-the-badge&logo=csharp&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=Express&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Handlebars-352515?style=for-the-badge&logo=Handlebars.js&logoColor=orange" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-css3-1572b6?style=for-the-badge&logo=css3&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-JQuery-1064a5?style=for-the-badge&logo=JQuery&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Vue-344454?style=for-the-badge&logo=vue.js&logoColor=3eaf7c" /><br/><br/>
+
+<img src="https://img.shields.io/badge/-GitHub-260172?style=for-the-badge&logo=github&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-006faf?style=for-the-badge&logo=visual-studio-code&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio-61368f?style=for-the-badge&logo=Visual%20Studio&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Eclipse-2a2051?style=for-the-badge&logo=eclipse-ide&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-postman-f06632?style=for-the-badge&logo=postman&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Atom-129e6f?style=for-the-badge&logo=Atom&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-AndroidStudio-76aa3f?style=for-the-badge&logo=android&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux&logoColor=eab311" /><br/><br/>
+<img src="https://img.shields.io/badge/-Windows-0172c9?style=for-the-badge&logo=windows&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Mac-000?style=for-the-badge&logo=Apple&logoColor=FFF" /><br/><br/>
+<img src="https://img.shields.io/badge/-Azure-3075ad?style=for-the-badge&logo=microsoft-azure&logoColor=FFF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-AWS-242c38?style=for-the-badge&logo=amazon-aws&logoColor=f29100" />&nbsp;&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
