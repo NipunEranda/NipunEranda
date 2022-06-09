@@ -13,7 +13,6 @@
 ✉️ &nbsp;You can shoot me an email at namarasekara71@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp; My Curriculum Vitae : <a style="color: red;" href="https://drive.google.com/file/d/1AC-a425sRZQpPujPB8xyUQ4v0Px1KlkB/view?usp=sharing">Check Here!</a>
 
-<img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 <br/>
  
 ### 🛠 &nbsp;Tech Stack
