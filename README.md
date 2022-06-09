@@ -42,8 +42,8 @@
 <img src="https://img.shields.io/badge/-Eclipse-2a2051?style=for-the-badge&logo=eclipse-ide&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-postman-f06632?style=for-the-badge&logo=postman&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Atom-129e6f?style=for-the-badge&logo=Atom&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-AndroidStudio-76aa3f?style=for-the-badge&logo=android&logoColor=FFF" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux&logoColor=eab311" /><br/><br/>
+<img src="https://img.shields.io/badge/-AndroidStudio-76aa3f?style=for-the-badge&logo=android&logoColor=FFF" /><br/><br/>
+<img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux&logoColor=eab311" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Windows-0172c9?style=for-the-badge&logo=windows&logoColor=FFF" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Mac-000?style=for-the-badge&logo=Apple&logoColor=FFF" /><br/><br/>
 <img src="https://img.shields.io/badge/-Azure-3075ad?style=for-the-badge&logo=microsoft-azure&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
