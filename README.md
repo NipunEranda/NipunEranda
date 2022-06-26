@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/-JQuery-1064a5?style=for-the-badge&logo=JQuery&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Vue-344454?style=for-the-badge&logo=vue.js&logoColor=3eaf7c" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Next-000?style=for-the-badge&logo=Next.js&logoColor=FFF" /><br/><br/>
 
 <img src="https://img.shields.io/badge/-GitHub-260172?style=for-the-badge&logo=github&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-006faf?style=for-the-badge&logo=visual-studio-code&logoColor=FFF" />&nbsp;&nbsp;
