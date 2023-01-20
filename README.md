@@ -63,12 +63,9 @@
 <h3  align="center">🎖 My Contribution Streak</h3>
 
 <br/>
-<p class="rich-diff-level-zero" align="center">
-  <a href="https://github.com/NipunEranda">
-    <img style="margin-bottom:15px" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NipunEranda&theme=radical" /><br/>
-    <img style="margin-bottom:15px" height="180em" src="https://github-readme-stats.vercel.app/api?username=NipunEranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
-    <img style="margin-bottom:15px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunEranda&layout=compact&langs_count=20&theme=dark"/>
-  </a>
-<p class="rich-diff-level-zero" align="center">
 
-</p>
+<p class="rich-diff-level-zero" align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=NipunEranda&theme=radical" rel="nofollow" class="rech-diff-level-one">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NipunEranda&theme=radical" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=NipunEranda&theme=radical" style="max-width:100%;">
+   </a>
+ </p>
