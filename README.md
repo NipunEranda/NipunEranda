@@ -69,3 +69,14 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NipunEranda&theme=radical" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=NipunEranda&theme=radical" style="max-width:100%;">
    </a>
  </p>
+
+<br />
+<p align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=NipunEranda&s&theme=radical&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
+</p>  
+  <br/>
+<p align="center"> 
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunEranda&theme=radical&show_icons=true&langs_count=9b&hide=css&layout=compact" alt="Top Languages" />
+</p>
+
+<br />
