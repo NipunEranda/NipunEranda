@@ -55,10 +55,6 @@
 <img src="https://img.shields.io/badge/-Mac-000?style=for-the-badge&logo=Apple&logoColor=FFF" />
 
 <br/>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<br/>
 <p align="center">
 
 <h3  align="center">🎖 My Contribution Streak</h3>
