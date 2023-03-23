@@ -77,7 +77,7 @@
 </p>  
   <br/>
 <p align="center"> 
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunEranda&theme=radical&show_icons=true&langs_count=20b&hide=css&layout=compact" alt="Top Languages" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunEranda&theme=radical&show_icons=true&langs_count=20b&hide=css&layout=default" alt="Top Languages" />
 </p>
 
 
