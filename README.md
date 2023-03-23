@@ -54,7 +54,6 @@
 <img src="https://img.shields.io/badge/-Windows-0172c9?style=for-the-badge&logo=windows&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Mac-000?style=for-the-badge&logo=Apple&logoColor=FFF" />
 
-<br/>
 <p align="center">
 
 <h3  align="center">🎖 My Contribution Streak</h3>
