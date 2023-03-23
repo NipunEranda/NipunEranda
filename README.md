@@ -77,7 +77,8 @@
 </p>  
   <br/>
 <p align="center"> 
- <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NipunEranda&theme=radical&show_icons=true&langs_count=20b&layout=compact&line_height=40&hide=css"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunEranda&theme=radical&show_icons=true&langs_count=20b&hide=css&layout=compact" alt="Top Languages" />
 </p>
+
 
 <br />
