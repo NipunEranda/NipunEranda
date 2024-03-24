@@ -75,6 +75,6 @@
 </div>
 
 <!--Snake-->
-![snake gif](https://github.com/NipunEranda/NipunEranda/blob/dist/github-snake.svg)
+![snake gif](https://github.com/NipunEranda/NipunEranda/blob/dist/github-contribution-grid-snake.svg)
 
 <br />
