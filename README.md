@@ -25,7 +25,6 @@
 <img src="https://img.shields.io/badge/-Java-507e9c?style=for-the-badge&logo=openjdk&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Rust-ce412b?style=for-the-badge&logo=Rust&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Spring-6db33f?style=for-the-badge&logo=spring&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-C++-005697?style=for-the-badge&logo=C%2B%2B&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-C%23-005697?style=for-the-badge&logo=csharp&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=Express&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Handlebars-352515?style=for-the-badge&logo=Handlebars.js&logoColor=orange" />&nbsp;&nbsp;&nbsp;
