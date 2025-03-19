@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/-Handlebars-352515?style=for-the-badge&logo=Handlebars.js&logoColor=orange" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-css3-1572b6?style=for-the-badge&logo=css3&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Tailwind-030712?style=for-the-badge&logo=tailwindcss&logoColor=3eaf7c" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Tailwind-091332?style=for-the-badge&logo=tailwindcss&logoColor=3eaf7c" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-JQuery-1064a5?style=for-the-badge&logo=JQuery&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
