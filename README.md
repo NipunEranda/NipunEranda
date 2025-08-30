@@ -21,13 +21,14 @@
 
 <img src="https://img.shields.io/badge/-Python-3775a8?style=for-the-badge&logo=python&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-de9c25?style=for-the-badge&logo=javascript&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Typescript-387cc8?style=for-the-badge&logo=typescript&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-397f37?style=for-the-badge&logo=node.js&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Java-507e9c?style=for-the-badge&logo=openjdk&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Rust-ce412b?style=for-the-badge&logo=Rust&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Spring-6db33f?style=for-the-badge&logo=spring&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/C++-005697?style=for-the-badge&logo=cplusplus&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-C%23-005697?style=for-the-badge&logo=csharp&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Rust-ce412b?style=for-the-badge&logo=Rust&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=Express&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Handlebars-352515?style=for-the-badge&logo=Handlebars.js&logoColor=orange" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-css3-1572b6?style=for-the-badge&logo=css3&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
@@ -37,6 +38,7 @@
 <img src="https://img.shields.io/badge/-JQuery-1064a5?style=for-the-badge&logo=JQuery&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Vue-344454?style=for-the-badge&logo=vue.js&logoColor=3eaf7c" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Nuxt-011e1a?style=for-the-badge&logo=nuxt&logoColor=00dc82" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Tauri-344454?style=for-the-badge&logo=tauri" /><br/><br/>
 
 <img src="https://img.shields.io/badge/-GitHub-260172?style=for-the-badge&logo=github&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
