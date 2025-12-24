@@ -59,32 +59,6 @@
 <img src="https://img.shields.io/badge/-Windows-0172c9?style=for-the-badge&logo=windows&logoColor=FFF" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Mac-000?style=for-the-badge&logo=Apple&logoColor=FFF" />
 
-### 🎖 My Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=NipunEranda&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=NipunEranda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunEranda&layout=compact&langs_count=12&theme=radical&hide=css,html,php,shell"
-    alt="Top Languages"
-  />
-</p>
-
 ---
 
 ![Snake animation](https://github.com/NipunEranda/NipunEranda/blob/output/github-snake-dark.svg)
