@@ -65,11 +65,14 @@
 
 <br/>
 
-<p class="rich-diff-level-zero" align="center">
-  <a href="https://streak-stats.demolab.com/?user=NipunEranda&theme=radical&hide_border=true" rel="nofollow" class="rech-diff-level-one">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NipunEranda&theme=radical" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=NipunEranda&theme=radical" style="max-width:100%;">
-   </a>
- </p>
+<p align="center">
+  <a href="https://github.com/NipunEranda">
+    <img
+      src="https://streak-stats.demolab.com?user=NipunEranda&theme=radical&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 
 <!-- GitHub Analytics -->
   <div align="center" style="width:'100%'">
